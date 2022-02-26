@@ -1,0 +1,17 @@
+baseURL: https://cgalo.dev/
+languageCode: en-us
+title: Christian Galo
+theme: papermod
+
+params:
+  homeInfoParams:
+    Title: Hello!
+    Content: Welcome to my personal site.
+
+  socialIcons:
+    - name: cv
+      url: https://www.test.com
+    - name: github
+      url: https://github.com/cgalo5758
+    - name: linkedin
+      url: https://www.linkedin.com/in/christian-galo/

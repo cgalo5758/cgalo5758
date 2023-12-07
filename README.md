@@ -11,9 +11,9 @@ Here are some tools am currently using and learning about. (sorted from most to 
 - Programming languages:
   - JavaScript
     - TypeScript
-  - C
   - Go
   - Python
+  - C
   - PHP
   - C++
   - Java
